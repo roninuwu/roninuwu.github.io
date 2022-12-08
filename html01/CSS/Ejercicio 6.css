@@ -1,8 +1,0 @@
-li:nth-child(odd){
-    background-color: rgb(12, 236, 199);
-
-}
-li:nth-child(5){
-    background-color: rgb(230, 38, 150);
-    
-}
